@@ -1,0 +1,22 @@
+
+Private: Kyiv Tarasivska 12
+Appartment: Kharkiv Shchorsa 34 45
+Private: Odesa Soborna 8
+Appartment: Lviv Halytska 56 12
+Appartment: Dnipro Pivdenna 77 21
+Private: Kyiv Sichovykh 25
+Appartment: Kharkiv Sadova 18 8
+Private: Lviv Franka 40
+Appartment: Dnipro Poltavska 19 99
+Private: Odesa Deribasivska 2
+Appartment: Kyiv Zhytomyrska 5 67
+Appartment: Lviv Horodotska 98 15
+Private: Kharkiv Pushkinska 44
+Appartment: Odesa Novoseliv 33 104
+Private: Dnipro Metalurgiv 3
+Appartment: Hostomel Aviaciyna 12 66
+Private: Vinnytcya Bucskya 6
+Private: Misto street 1
+Appartment: Misto street 1 2
+Private: f d 1
+Appartment: g d 2 2

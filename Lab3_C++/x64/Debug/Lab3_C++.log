@@ -1,0 +1,10 @@
+﻿  Address.cpp
+  AddressBook.cpp
+  Appartment.cpp
+  FileHandler.cpp
+C:\Users\Max\Source\Lab3_C++\Lab3_C++\FileHandler.cpp(13,9): error C2561: 'FileHandler::loadAddressesFromFile': function must return a value
+  main.cpp
+  Menu.cpp
+  PrivateHouse.cpp
+  Ui.cpp
+  Generating Code...
